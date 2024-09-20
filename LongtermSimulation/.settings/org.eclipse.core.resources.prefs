@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/PreSimulations/ControllerParameterDict_IWT75.py=utf-8
+encoding//src/PreSimulations/generateWindFiles.py=utf-8
+encoding//src/PreSimulations/runPresimulations.py=utf-8
+encoding//src/PreSimulations/testControllerConfigsAboveRated_IWT75.py=utf-8
+encoding//src/PresimEvaluation/LookUpTablesFromSimulations.py=utf-8
+encoding//src/PresimEvaluation/calcBearinxResultsWindTurbulence.py=utf-8
+encoding//src/Simulations/Simulator.py=utf-8
+encoding//src/Simulations/functions.py=utf-8
+encoding//src/Simulations/simulateLaHauteBorne_IWT2_5.py=utf-8
+encoding//src/Simulations/simulateLillegrund_IWT7_5.py=utf-8
+encoding//src/fileIO/convertMatFileToCSV.py=utf-8
+encoding//src/fileIO/loadDataForLongtermSim.py=utf-8
+encoding//src/fileIO/writeBearinxResutsToMat.py=utf-8
+encoding/<project>=UTF-8
