@@ -4,9 +4,6 @@
 '''
 Created on 02.09.2019
 
-@author: reqnik
-'''
-
 import scipy.interpolate
 import scipy.integrate
 import numpy as np
