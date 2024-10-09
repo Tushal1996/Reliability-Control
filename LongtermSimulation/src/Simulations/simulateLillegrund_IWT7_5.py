@@ -4,8 +4,7 @@
 '''
 Created on 18.09.2019
 
-@author: reqnik
-'''
+
 import sys
 sys.path.append('\\\\iwes.fraunhofer.de\\Data\\OE\\OE200_STUD\\Tushal_Patel\\LongtermSimulation\\src')
 sys.path.append(r'C:\Users\pattus\Desktop\FRAUNHOFER_IWES\LongtermSim_Niklas\LongtermSimulation\src')
